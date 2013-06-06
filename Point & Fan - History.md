@@ -2,16 +2,16 @@ Point / Fan - History
 =====================
 
 ## Points
-1000. .em.
-2000. .Harlow.
-3000. Prism
-4000. Misao
-5000. Clinr
-6000. DJ Van Duyn
+1000th Point - .em.
+2000th Point - .Harlow.
+3000th Point - Prism
+4000th Point - Misao
+5000th Point - Clinr
+6000th Point - DJ Van Duyn
  
 ## Fans
-50. Ayergasm
-100. Housmith
-150. Zen Of Thrones
-200. @SamSmithxP
-250. MC 
+50th Fan Ayergasm
+100th Fan Housmith
+150th Fan Zen Of Thrones
+200th Fan @SamSmithxP
+250th Fan MC 
